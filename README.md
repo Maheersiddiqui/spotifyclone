@@ -1,2 +1,2 @@
 # spotifyclone
-I cloned spotify using only html and css
+created this  clone of  spotify using only html and css
